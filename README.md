@@ -5,3 +5,6 @@ Their Marketing team is responsible for increasing brand awareness, market share
 
 The Questions need to solve
 [Primary_Secondary_Insights.pdf](https://github.com/Tanmoypy3/Power-BI-Dashboard-on-Food-Beverage-Industry/files/12268678/Primary_Secondary_Insights.pdf)
+
+Here is my solution 
+https://www.linkedin.com/posts/tanmoy-s_dataanalytics-powerbi-sql-activity-7086104362011275264-o1Ib?utm_source=share&utm_medium=member_desktop
